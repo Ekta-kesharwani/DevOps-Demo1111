@@ -1,2 +1,3 @@
-# DevOps-Demo1111
-DevOps-Demo1111
+# maven-project
+
+Simple Maven Project
